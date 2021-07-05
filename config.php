@@ -271,7 +271,7 @@ $options->blocked_message = '<strong>URL blocked</strong>';
 // those with a key (see below to specify key(s)).
 // If set to true, no feed is produced unless a valid
 // key is provided.
-$options->key_required = false;
+$options->key_required = true;
 
 // Access keys (password protected access)
 // ------------------------------------
@@ -288,6 +288,7 @@ $options->key_required = false;
 // is highly recommended (when generating feeds, we encode the key and 
 // refer to it by index number and hash).
 $options->api_keys = array();
+$options->api_keys[1] = '0105251';
 // Example:
 // $options->api_keys[1] = 'secret-key-1';
 // $options->api_keys[2] = 'secret-key-2';
