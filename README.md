@@ -15,7 +15,7 @@ This project is cloned and then modified from FiveFilters's latest free version 
 
 **Start Now** 😊
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/reycn/full-text-rss)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FishSlide/full-text-rss)  
 Preview: [Full-RSS-Generator](https://full-rss-generator.herokuapp.com/) on Heroku using One Key Deployment.  
 (may sleep due to limitations for free plan)
 
